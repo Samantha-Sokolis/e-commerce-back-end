@@ -1,7 +1,7 @@
 {
   "name": "module-13-challenge-orm",
   "version": "1.0.0",
-  "description": "",
+  "description": "## Description This project entailed a build of the back end for an e-commerce site, with Express.js API configured to use Sequelize to interact with a MySQL database. The purpose behind this project is to understand the fundamental architecture of e-commerce sites, since it is the largest sector of the electronics industry.",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
