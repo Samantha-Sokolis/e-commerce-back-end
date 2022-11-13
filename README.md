@@ -24,8 +24,6 @@ THEN I am able to successfully create, update, and delete data in my database
 
 ## Installation
 
-Run the following command at the root of your project and answer the prompted questions:
-
 mysql -u root -p
 
 Enter PW when promted
@@ -39,7 +37,9 @@ npm run seed
 npm start
 
 
-## Testing
+## Walkthrough Videos
+
+1. Video 1 shows mysql Database created:
+https://watch.screencastify.com/v/PnCAZVAOhD9t1HcXfYNK
 
 
-# Resources: https://github.com/jpd61/e-commerce-backend/blob/master/routes/api/product-routes.js
